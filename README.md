@@ -1,4 +1,4 @@
-# Telegram Companion Bot
+ # Telegram Companion Bot
 
 Telegramda sizning o'rningizga suhbatlashadigan va xarakter fayliga tayanadigan bot. Arxitektura modullarga ajratilgan:
 
